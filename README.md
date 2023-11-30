@@ -23,7 +23,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/jumanov-alisher-635735265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jumanov-alisher-635735265" height="30" width="40" /></a>
 <a href="https://instagram.com/jumanov16_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumanov16_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/zumanovaliser814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zumanovaliser814" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/zumanovaliser814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zumanovaliser814" height="30" width="40" /></a>
 </p>
 
