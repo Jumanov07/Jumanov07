@@ -27,6 +27,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,firebase,nextjs,react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,vite,scss,styledcomponents,redux" />
     
+   <img src="https://skillicons.dev/icons?i=scss,styledcomponents,redux" />
 </div>
 
 
@@ -35,10 +36,6 @@
 <hr/>
 
 <br/>
-
-
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
