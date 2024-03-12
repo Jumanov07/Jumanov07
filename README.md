@@ -1,4 +1,4 @@
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Jumanov07.visitor-badge" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Jumanov07.Jumanov07" />
 
 
 <h1 align="center">
