@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Peaksoft House**
 
-💬 Ask me about **JavaScript , React**
+💬 Ask me about **JavaScript and React**
 
  </div>
 
