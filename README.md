@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **A2B**
 
-💬 Ask me about **JavaScript and React**
+💬 Ask me about **JavaScript, Next and React**
 
  </div>
 
