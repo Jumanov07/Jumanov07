@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Сodify Lab**
+ 🔭 I’m currently working on **A2B**
 
 💬 Ask me about **JavaScript and React**
 
